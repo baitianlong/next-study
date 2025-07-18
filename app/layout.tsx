@@ -5,6 +5,7 @@ const geist = Comforter({
   subsets: ['latin'],
   weight:'400'
 })
+
 export default function RootLayout({
   children,
 }: Readonly<{
