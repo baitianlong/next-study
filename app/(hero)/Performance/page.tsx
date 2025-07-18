@@ -6,6 +6,6 @@ export const metadata: Metadata = {
 }
 export default function Performance() {
   return (
-    <Content text="我是Performance页面" color="#000"/>
+    <Content text="我是Performance页面更新了" color="#000"/>
   );
 }
